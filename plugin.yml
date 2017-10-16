@@ -1,0 +1,6 @@
+name: RoleManager
+version: 1.0
+main: com.pzg.www.minecrafthook.verifycommands.main.Main
+description: This plugin adds role management to Discord Minecraft Hook Bot.
+author: TJPlaysNow
+depend: [Discord-Bot-API, MinecraftHook]
